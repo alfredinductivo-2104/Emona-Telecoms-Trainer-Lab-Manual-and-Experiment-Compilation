@@ -122,6 +122,7 @@ To observe the effect of the **Buffer Module**, a **2 kHz sine wave** from the M
 #### 2.3.2 Observations
 
 Upon applying the input signal to the Buffer Module, it was observed that adjusting the **Gain control** allowed the amplitude of the input signal to be increased. Which we can clearly see in the figure below. We can see also in the Figure below that the output voltage of the inputted signal has increase significantly from 3.920 V to 16.80 V as we turn the gain control fully clockwise.  
+
 <img src="https://github.com/user-attachments/assets/6e1818bc-e682-4810-aa01-601e6708ec4f" width="500" height="380" />
 
 ### 2.4 Adder Module
@@ -131,17 +132,36 @@ The fourth module tested was the **Adder Module**, which simply adds two signals
 #### 2.4.1
 
 To observe what happened to the signal when it undergo the adder, we connect a **2 kHz Sine wave** input and connect the Adder module output to the Oscilloscope.
+
 <img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/deb076b4-4d9a-4bf2-afb0-1b6f6c3c5c17" />
 
 #### 2.4.2
 
 As observe the signal if we adjust the gain control fully **anti-clockwise** in the Adder Module, the signal's output is a **flat line or zero**.
+
 <img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/f83c91ed-3afe-4215-b21e-7b7e12091600" />
 
 #### 2.4.3
 
 Conversely, as we increase the gain or turn the gain control clockwise, the output signal gets bigger and is amplified. The output voltage also increased from **3.80 V (original Vo)** to **8 V** as the signal flows through the Adder with high gain.
+
 <img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/2fcd9a7e-5bba-43af-95cc-73afc5e9dd95" />
+
+### 2.5 Phase Shifter Module
+
+The fifth module tested was the **Phase Shifter Module**, which is used for communication systems that require the signal to be transmitted with a phase shift.
+
+#### 2.5.1
+
+Using a **2 kHz Sine wave** and connecting it to the Phase Shifter Module and the Oscilloscope to the output, we are able to see the effect of this module if we switch the phase from **0° to 180°** or vice versa, or adjust the phase adjust control in the module.
+
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/7ead876b-6ddd-4410-8da4-2499a00029a3" />
+
+#### 2.5.2
+
+Upon adjusting the Phase control about the middle of its travel, it is observed that the signal starts to shift about **90°**, which is right in the middle of the 0° to 180° range. While the timing has changed
+
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/d55a6380-b84f-4ecc-8c60-c6c2aa02085e" />
 
 
 
