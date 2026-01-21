@@ -1,19 +1,11 @@
-## Emona Telecoms Trainer Lab Manual and Experiment Compilation (PART 1) 
+## Emona Telecoms Trainer Lab Manual and Experiment Compilation (PART 1 AM MODULATION) 
 
-## Background
-
-The **Emona Telecoms Trainer 101** is an educational platform used by students to study the fundamental principles of **Communications and Telecommunications**. It provides a hands-on learning experience by allowing students to implement, observe, and analyze various communication system block diagrams using real hardware modules.
-
-Through the use of the Emona Telecoms Trainer, students are able to explore key concepts in both **Analog** and **Digital Communications**, including:
-- Amplitude Modulation (AM)
-- Frequency Modulation (FM)
-- Pulse Code Modulation (PCM)
-- Other fundamental communication techniques
-
-This hands-on approach enables students to develop a deeper understanding of how communication systems operate—from **signal generation**, **modulation and demodulation**, **filtering**, and **amplification**, to overall system analysis.
-
-The compiled set of experiments documents the **procedures**, **observations**, **results**, and **key notes** for each activity. Additionally, this compilation serves as a reference guide for other students by providing clear explanations, practical insights, and helpful tips to support effective experiment execution and deeper conceptual understanding.
-
+## TABLE OF CONTENTS
+- EXPERIMENT 1: Setting Up an Oscilloscope.
+- EXPERIMENT 2: An Introduction to the Telecoms-Trainer 101.
+- EXPERIMENT 3: Modelling Equation.
+- EXPERIMENT 4: Amplitude Modulation (AM).
+   
 ## Experiment 1: Setting Up an Oscilloscope
 
 ## Introduction
@@ -74,6 +66,34 @@ The objective of this experiment is to understand the different functionalities 
 ## Learnings
 
 In this experiment, we were able to become familiar with the basic operation, setup, and calibration of an oscilloscope. We learned the importance of properly adjusting the general, vertical, horizontal, and triggering controls to obtain a stable and accurate waveform display. Correct calibration of the oscilloscope ensures that measurements are reliable and precise. Additionally, this experiment enhances our knowledge about the different functionalities and settings of an Oscilloscope. Overall, This experiment is very important to do whenever we will be using an Oscilloscope, as this ensures the accuracy and reliability of the output we will be gathered for the future experiments. 
+
+## Experiment 2: Setting Up an Oscilloscope
+
+## Introduction
+The **Emona Telecoms Trainer 101** is an educational platform used by students to study the fundamental principles of **Communications and Telecommunications**. It provides a hands-on learning experience by allowing students to implement, observe, and analyze various communication system block diagrams using real hardware modules.
+Through the use of the Emona Telecoms Trainer, students are able to explore key concepts in both **Analog** and **Digital Communications**, including:
+- Amplitude Modulation (AM)
+- Frequency Modulation (FM)
+- Pulse Code Modulation (PCM)
+- Other fundamental communication techniques
+
+This device enables students to develop a deeper understanding of how communication systems operate—from **signal generation**, **modulation and demodulation**, **filtering**, and **amplification**, to overall system analysis
+
+## Objective
+
+The objective of this experiment is to become familiar with the different modules of the **Emona Telecoms Trainer 101**. Through hands-on exploration, we aim to identify the various modules available on the **Emona Biskit Board** and understand their individual functions and significance within a telecommunications system. This experiment also helps demonstrate how each module contributes to **signal generation**, **signal processing**, and **signal analysis**, thereby enhancing our understanding of fundamental telecommunications concepts and their practical applications.
+
+## Equipment to Be Used
+
+1. Emona Telecoms-Trainer 101 (plus power-pack)
+2. Dual channel 20Mhz Oscilloscope
+3. Two Emona Telecoms-Trainer Oscillocscope lead
+4. Assorted Emona Telecoms-Trainer 101 patch leads
+5. One set of Headphones (stereo)
+
+
+
+
 
 
 
