@@ -26,9 +26,9 @@ The compiled set of experiments documents the **procedures**, **observations**, 
 
 ## Introduction
 
-An **oscilloscope** is an electronic measuring device used to analyze and observe electrical signals. It allows users to visualize signal characteristics such as **waveform shape**, **frequency**, and **amplitude**. In addition, an oscilloscope enables the measurement of important signal parameters including **period (T)**, **frequency (f)**, **peak voltage (Vp)**, **peak-to-peak voltage (Vpp)**, and **time intervals**.
+An **oscilloscope** is an electronic measuring device used to analyze and observe electrical signals. It allows users to visualize signal characteristics such as **waveform shape**, **frequency**, and **amplitude**. In addition, an oscilloscope enables the measurement of important signal parameters including **period (T)**, **frequency (f)**, **peak voltage (Vp)**, **peak-to-peak voltage (Vpp)**, and **time intervals**. Oscilloscopes are widely used in electronics laboratories for **testing**, **troubleshooting**, and **verifying** the performance of electronic circuits and systems.
 
-Oscilloscopes are widely used in electronics laboratories for **testing**, **troubleshooting**, and **verifying** the performance of electronic circuits and systems.
+<img width="609" height="366" alt="Screenshot 2026-01-21 135500" src="https://github.com/user-attachments/assets/44d2750c-c09d-4aa5-8f54-164b5c0d9ce4" />
 
 ## Objective
 
@@ -53,6 +53,8 @@ The objective of this experiment is to understand the different functionalities 
    - Set the **Intensity Control** to approximately three-quarters of its maximum.
    - Set the **Mode Control** to the **CH1** position.
 
+<img width="714" height="337" alt="Screenshot 2026-01-21 135507" src="https://github.com/user-attachments/assets/d932bf58-a888-462a-b642-24b5e5caf13a" />
+
 4. Under the **Vertical Controls**:
    - Set the **Input Coupling** for both channels to the **AC** position.
    - Set the **Vertical Attenuation** for both channels to **1 V/div**.
@@ -72,6 +74,8 @@ The objective of this experiment is to understand the different functionalities 
    - Set the **Slope (or Sync)** control to the **“+”** position.
 
 7. Observe the display. The waveform shown should match the expected reference output.
+
+<img width="517" height="390" alt="Screenshot 2026-01-21 135515" src="https://github.com/user-attachments/assets/0865e1f4-24d2-4931-a8b8-7fa1cddf75ed" />
 
 8. This indicates that the oscilloscope is now **properly set up and calibrated**, and ready for use.
 
