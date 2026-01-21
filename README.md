@@ -98,6 +98,34 @@ The objective of this experiment is to become familiar with the different module
 - A sinewave is a repetitive signal with the shape.
 - A cosine wave is simply a sinewave that is out of phase with another sinewave by exactly 90°. 
 
+## PROCEDURE:
+1.	Gather all necessary equipment for the activity, ensuring that everything is easily accessible and ready for use.
+2.	Verify that all equipment is undamaged and functioning properly. Ensure each piece is correctly calibrated.
+3.	Ensure that the Oscilloscope is properly setup and calibrated. If not refer to Experiment 1.
+4.	First Module is the Master Signals
+5.	Connect the set up according to Figure below.
+<img width="517" height="517" alt="image" src="https://github.com/user-attachments/assets/15c403e7-1d8a-4e49-aae9-7c457af342cb" />
+
+7.	Observe the output in the Oscilloscope
+2KHz SINE
+<img width="517" height="390" alt="image" src="https://github.com/user-attachments/assets/e939fe9f-964e-4dd1-8fc4-f566823c8914" />
+
+9.	In the measure function of the oscilloscope, record the output voltage, period and frequency of the signal.
+10.	Repeat step 5 to 8 but connect it to the other analog signals (100Khz cosine and 100Khz Sine)
+
+100KHz COS
+<img width="517" height="517" alt="image" src="https://github.com/user-attachments/assets/79f190f4-9b5f-42ed-bdb1-3f6429bc84f3" />
+
+
+100KHz SINE
+<img width="517" height="390" alt="image" src="https://github.com/user-attachments/assets/a2c350fe-afa6-4eb3-9255-9551f1225276" />
+
+
+TABLE 1:
+<img width="517" height="390" alt="image" src="https://github.com/user-attachments/assets/9474acbf-e588-4c7c-a958-dc6c13b198bb" />
+
+
+
 
 
 
