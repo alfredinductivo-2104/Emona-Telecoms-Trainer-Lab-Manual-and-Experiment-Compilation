@@ -1,4 +1,4 @@
-# Emona-Telecoms-Trainer-Lab-Manual-and-Experiment-Compilation
+# AM MODULATION - Emona Telecoms Trainer Lab Manual and Experiment Compilation (PART 1) 
 
 ## Background
 
@@ -13,3 +13,28 @@ Through the use of the Emona Telecoms Trainer, students are able to explore key 
 This hands-on approach enables students to develop a deeper understanding of how communication systems operate—from **signal generation**, **modulation and demodulation**, **filtering**, and **amplification**, to overall system analysis.
 
 The compiled set of experiments documents the **procedures**, **observations**, **results**, and **key notes** for each activity. Additionally, this compilation serves as a reference guide for other students by providing clear explanations, practical insights, and helpful tips to support effective experiment execution and deeper conceptual understanding.
+
+
+
+
+
+
+
+
+
+🧪 Experiment 1: Setting Up an Oscilloscope
+📘 Introduction
+
+An oscilloscope is an electronic measuring device used to analyze and observe electrical signals. It allows users to visualize signal characteristics such as waveform shape, frequency, and amplitude. In addition, an oscilloscope can measure important signal parameters including:
+
+Period (T)
+
+Frequency (f)
+
+Peak Voltage (Vp)
+
+Peak-to-Peak Voltage (Vpp)
+
+Time intervals
+
+Oscilloscopes are widely used in electronics laboratories for testing, troubleshooting, and verifying the performance of electronic circuits and systems.
