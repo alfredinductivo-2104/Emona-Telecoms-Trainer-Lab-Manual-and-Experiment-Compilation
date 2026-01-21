@@ -113,7 +113,25 @@ Using the oscilloscope’s Measure function, we were able to determine the outpu
   height="380"
 />
 
+### 2.2 Speech Module
 
+The second module being tested was the **Speech Module**. Since one of the primary purposes of communication equipment is the transmission of speech, it is useful to examine the operation of such equipment using signals generated from speech.
+
+#### 2.2.1 Oscilloscope Connection
+
+Using a calibrated oscilloscope, the **Speech Module** was connected, and the **oscilloscope timebase control** was adjusted until the speech signal was clearly displayed.
+
+<img 
+  src="https://github.com/user-attachments/assets/cbe3d9d6-d532-4f1e-a2e0-6ffe37fe8578"
+  width="500"
+  height="380"
+/>
+
+#### 2.2.2 Observing Speech Signals
+
+After establishing the connection, variations in the waveform were clearly observed on the oscilloscope as we spoke into the microphone. This demonstrated how **speech signals change in amplitude and shape** in response to vocal input.
+
+https://github.com/user-attachments/assets/646de992-3077-49ca-8182-d9ca33f02c50
 
 
 
