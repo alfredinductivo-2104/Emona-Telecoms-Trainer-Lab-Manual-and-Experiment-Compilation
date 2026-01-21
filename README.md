@@ -107,6 +107,7 @@ The objective of this experiment is to become familiar with the different module
 <img width="517" height="517" alt="image" src="https://github.com/user-attachments/assets/15c403e7-1d8a-4e49-aae9-7c457af342cb" />
 
 7.	Observe the output in the Oscilloscope
+
 2KHz SINE
 <img width="517" height="390" alt="image" src="https://github.com/user-attachments/assets/e939fe9f-964e-4dd1-8fc4-f566823c8914" />
 
@@ -122,6 +123,7 @@ The objective of this experiment is to become familiar with the different module
 
 
 TABLE 1:
+
 <img width="517" height="390" alt="image" src="https://github.com/user-attachments/assets/9474acbf-e588-4c7c-a958-dc6c13b198bb" />
 
 
