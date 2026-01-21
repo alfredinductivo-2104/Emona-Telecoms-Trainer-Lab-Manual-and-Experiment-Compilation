@@ -22,9 +22,9 @@ The compiled set of experiments documents the **procedures**, **observations**, 
 
 
 
-##🧪 Experiment 1: Setting Up an Oscilloscope
+## Experiment 1: Setting Up an Oscilloscope
 
-##📘 Introduction
+## Introduction
 
 An **oscilloscope** is an electronic measuring device used to analyze and observe electrical signals. It allows users to visualize signal characteristics such as **waveform shape**, **frequency**, and **amplitude**. In addition, an oscilloscope enables the measurement of important signal parameters including **period (T)**, **frequency (f)**, **peak voltage (Vp)**, **peak-to-peak voltage (Vpp)**, and **time intervals**.
 
