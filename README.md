@@ -193,7 +193,9 @@ Two 2 kHz sine wave signals were used as input and passed through the Phase Shif
 
 <img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/bdde3624-67d6-4671-9be7-50ebc269ca13" />
 
+
 OUTPUT
+
 <img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/7a8b2d39-a6b0-46e0-aa25-cdd4caa0e7f9" />
 
 #### 3.1.1
