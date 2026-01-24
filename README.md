@@ -14,10 +14,10 @@ The compiled set of experiments documents the procedures, observations, results,
 ---
 
 ## CONTENTS
-- EXPERIMENT 1: Setting Up an Oscilloscope.
-- EXPERIMENT 2: An Introduction to the Telecoms-Trainer 101.
-- EXPERIMENT 3: Modelling Equation.
-- EXPERIMENT 4: Amplitude Modulation (AM).
+- 1: Setting Up an Oscilloscope.
+- 2: An Introduction to the Telecoms-Trainer 101.
+- 3: Modelling Equation.
+- 4: Amplitude Modulation (AM).
 
 ---
 
