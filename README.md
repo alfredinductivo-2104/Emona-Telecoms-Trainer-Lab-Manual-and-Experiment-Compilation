@@ -215,6 +215,79 @@ As observed, the output voltage is now different from the previous case when the
 
 <img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/601bdffe-c149-47c1-b07a-15a1d2e72232" />
 
+---
+
+## 4. Amplitude Modulation (AM)
+
+### 4.1 Generating a AM signal
+
+In the fourth experiment, the focus shifts to generating a real AM signal by implementing its mathematical model. This allows us to examine the AM signal and compare it with the original message signal. In the first setup, a 2 kHz sine wave is used as the message signal and applied to the VCO. The resulting signal is then passed through the Multiplier Module together with a 100 kHz sine wave, which serves as the carrier. Through this process, an amplitude-modulated (AM) signal is generated using a simple message signal.
+
+
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/83f9888a-d25d-4ab3-b29a-ffde294ec113" />
+
+It is represented by this Block Diagram:
+
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/75ca7dd9-f244-44b1-940e-84a79d59d1b2" />
+
+
+#### 4.1.1
+
+The oscilloscope display provides a direct comparison between the source and the modulated result: the red signal (Channel 1) represents the original message signal, while the yellow trace (Channel 2) displays the resulting AM output signal. It is observed that a lot of changes happen from the original signal. First, it is very observable that the characteristics such as the output voltage, frequency, and the bandwidth has increase. Additionally, the vertical peaks of the yellow signal precisely track the voltage fluctuations of the red signal, confirming that the message has been successfully impressed onto the carrier's amplitude without distortion or over-modulation.
+
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/f4553fd5-db3d-45d0-9967-0ada62f2a511" />
+
+### 4.2 Generating an AM Signal using Speech
+
+After that, the Speech Module is used, and the originating signal is changed from a sine wave to an actual voice or speech signal. This allows us to observe a real AM signal produced by modulating a carrier with a live audio input.
+
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/6282d194-ee19-4cc7-b71e-4aa65cb09a26" />
+
+#### 4.1.1
+
+When the 2khz sine wave is replaced with a microphone input, the oscilloscope display becomes significantly more dynamic and irregular. It is observe that the output signal is no longer shows a steady, repeating pattern but instead displays the complex, jagged voltage fluctuations characteristic of real-time audio or speech. Additionally, as we speak to the microphone with different volume of voice the carrier wave whose envelope constantly shifts in shape and thickness changes depending on the volume and pitch of the voice.
+
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/90eb0ffb-7670-422c-8096-ac7a61a16de0" />
+
+https://github.com/user-attachments/assets/6ebac3bb-335a-45e9-971e-896513dc6c4f
+
+---
+
+## Lab Questions
+
+**Q1: In what way is the Adder module's output different from the original 2 kHz sine?**  
+The output of the Adder Module differs from the original 2 kHz sine wave in **amplitude and phase**. When two sine waves are added together, the resulting waveform depends on the relative amplitudes and phase differences of the input signals. If one input is phase-shifted, the output remains a 2 kHz sine wave but exhibits a different phase and possibly a different peak amplitude compared to the original input signal.
+
+**Q2: What feature of the Multiplier output suggests it is an AM signal?**  
+The Multiplier output shows a high-frequency carrier whose **amplitude varies in accordance with the low-frequency message signal**. This changing envelope is the key feature that identifies the signal as an amplitude-modulated (AM) signal. The outline (envelope) of the waveform follows the shape of the message signal.
+
+**Q3: Is one of the signals in the AM complex a 2 kHz sine wave?**  
+Yes. One of the signals in the AM complex is the 2 kHz sine wave, which serves as the **message (modulating) signal**. This signal controls the amplitude of the high-frequency carrier during the modulation process.
+
+**Q4: Why is there a signal out of the Multiplier even when not speaking (Speech module)?**  
+There is still a signal at the output of the Multiplier because the **carrier signal is always present**, even when there is no speech input. When no speech is applied, the modulating signal is essentially zero or constant, resulting in an unmodulated carrier at the Multiplier output.
+
+---
+
+## Conclusion
+
+After analyzing the gathered data and observations, the following conclusions have been made:
+
+- It is very important for us engineers to know how to properly **calibrate and use the oscilloscope**, as it serves as one of the most fundamental instruments in analyzing electrical and electronic signals. Accurate calibration ensures that voltage, frequency, period, and waveform measurements truly represent the actual behavior of the signal under test. Without proper oscilloscope usage, data gathered from experiments may be misleading, leading to incorrect analysis and design decisions.  
+
+- Familiarization with the **Emona Telecoms Trainer 101 modules** provided a clearer understanding of how individual functional blocks contribute to a complete communication system.  
+
+- **Modelling signal equations** using the Adder and Phase Shifter modules demonstrated how mathematical concepts translate into physical signal behavior. This experiment reinforced the relationship between **phase, amplitude, and waveform combination** in signal processing.  
+
+- The **AM experiments** demonstrated how a carrier signal can be effectively modulated with a message signal, whether a simple sine wave or a real speech input. Observing the AM signals reinforced the understanding of how information is transferred through variations in the carrier’s amplitude.  
+
+- The whole experiment is very helpful as it improves our understanding of **fundamental communication principles** while developing practical skills in **equipment handling, signal observation, and system analysis**.
+
+
+
+
+
+
 
 
 
