@@ -25,6 +25,15 @@ In this experiment, we will be able to become familiar with the Different Emona 
 
 ---
 
+## THINGS YOU MAY NEED TO KNOW:
+- Two signals that are in phase with each other are synchronised. That is, they go up and down at the same time.
+- Two signals that out of phase are not synchronised. That is, they are out of step with cach other. An example of two signals that are out of phase is shown in Figure 3 below. 
+- Phase difference describes how much two signals are out of phase and is measured in degrees (like degrees in a circle). Signals that are in phase have a phase difference of 0. Signals that are out of phase have a phase difference 0° but 360° 
+- A sinewave is a repetitive signal with the shape. 
+- A cosine wave is simply a sinewave that is out of phase with another sinewave by exactly 90°. 
+
+---
+
 ## SUMMARY OF FINDINGS AND RESULTS
 
 In this experiment, the focus is on the **Emona Telecoms-Trainer 101**, where we are able to explore and identify the different modules available on the trainer and understand the specific function of each one.
