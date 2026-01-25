@@ -25,7 +25,7 @@ In this experiment, we will be able to understand the different functionalities 
 
 ---
 
-### PROCEDURE OF SETTING UP AN OSCILLOSCOPE:
+## PROCEDURE OF SETTING UP AN OSCILLOSCOPE:
 1.	Gather all necessary equipment for the activity, ensuring that everything is easily accessible and ready for use.
 2.	Verify that all equipment is undamaged and functioning properly. Ensure each piece is correctly calibrated.
 3.	In General Controls, Set the Intensity Control to about three quarters and Set the Mode control to the CH1 position
@@ -38,11 +38,15 @@ In this experiment, we will be able to understand the different functionalities 
 
 8.	This indicate that the Oscilloscope is already setup and calibrated and it is ready to use. 
 
+---
+
 ## SUMMARY OF FINDINGS AND RESULTS
 - Through correct adjustment of the intensity, vertical attenuation, time base, and triggering controls, a stable and clear waveform was successfully displayed on the screen. This indicated that the oscilloscope was properly set up and calibrated.
 - The experiment demonstrated that setting the vertical scale (V/div) correctly is essential for accurate voltage measurements, while proper adjustment of the horizontal scale (time/div) is necessary for precise determination of the signal’s period and frequency. Additionally, proper triggering settings were found to be important in stabilizing the waveform and preventing signal drift on the display.
 
-## Learnings
+---
+
+## LEARNINGS
 In this experiment, we were able to become familiar with the basic operation, setup, and calibration of an oscilloscope. We learned the importance of properly adjusting the general, vertical, horizontal, and triggering controls to obtain a stable and accurate waveform display. Correct calibration of the oscilloscope ensures that measurements are reliable and precise. Additionally, this experiment enhances our knowledge about the different functionalities and settings of an Oscilloscope. Overall, This experiment is very important to do whenever we will be using an Oscilloscope, as this ensures the accuracy and reliability of the output we will be gathered for the future experiments. 
 
 
