@@ -1,8 +1,4 @@
-# AM MODULATION  
-
-Amplitude Modulation (AM) is a technique used in electronic communication. It is most commonly used for transmitting information via radio waves. In AM, the amplitude of a high-frequency carrier signal is varied in proportion to the instantaneous amplitude of the message or information signal, while the frequency remains constant. This method allows audio, voice, or other signals to be transmitted over long distances and received by AM radio receivers.
-
-## Emona Telecoms Trainer Lab Manual and Experiment Compilation (PART 1)
+# Emona Telecoms Trainer Lab Manual and Experiment Compilation (PART 1)
 
 ---
 
@@ -31,6 +27,12 @@ The compiled set of experiments documents the procedures, observations, results,
 3. Two Emona Telecoms-Trainer Oscilloscope lead  
 4. Assorted Emona Telecoms-Trainer 101 patch leads  
 5. One set of Headphones (stereo)  
+
+---
+
+# AM MODULATION  
+
+Amplitude Modulation (AM) is a technique used in electronic communication. It is most commonly used for transmitting information via radio waves. In AM, the amplitude of a high-frequency carrier signal is varied in proportion to the instantaneous amplitude of the message or information signal, while the frequency remains constant. This method allows audio, voice, or other signals to be transmitted over long distances and received by AM radio receivers.
 
 ---
 
