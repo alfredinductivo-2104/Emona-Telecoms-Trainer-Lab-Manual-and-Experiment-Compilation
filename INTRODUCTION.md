@@ -10,9 +10,12 @@ Through the use of the Emona Telecoms Trainer, students are able to explore key 
 
 The compiled set of experiments documents the procedures, observations, results, and key notes for each activity. Additionally, this compilation serves as a guide for other students by providing clear references, insights, and practical tips that can help them better understand the experiments and perform them more effectively.
 
+
+<img width="650" height="550" alt="image" src="https://github.com/user-attachments/assets/085be3c6-c320-4cfa-bc20-9decf2018a89" />
+
 ---
 
-## CONTENTS
+## TABLE OF CONTENTS
 - EXPERIMENT 1: Setting Up an Oscilloscope.
 - EXPERIMENT 2: An Introduction to the Telecoms-Trainer 101.
 - EXPERIMENT 3: Modelling Equation.
